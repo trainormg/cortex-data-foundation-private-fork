@@ -3,7 +3,7 @@
     "generateExtraData": true,
     "deployCDC": true,
     "deploySAP": true,
-    "deploySFDC": true,
+    "deploySFDC": false,
     "turboMode": true,
     "projectIdSource": "",
     "projectIdTarget": "",
